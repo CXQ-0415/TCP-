@@ -19,8 +19,8 @@
 
 ## 编译运行
 ```bash
-g++ -o server server.cpp -pthread
-./server
+g++ -o TCP-ChatRoom TCP-ChatRoom.cpp -pthread
+./TCP-ChatRoom
 
 使用方法：
 ip：127.0.0.1
